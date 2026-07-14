@@ -27,8 +27,12 @@ I created CyberWatch AI, an intelligent scam detection platform that analyzes li
 * Databases: Supabase, SQL
 * Tools: Chrome extensions, REST APIs
 
-## Let's Connect
+## Get In Touch
 
 Feel free to reach out if you want to discuss software development, AI, or cybersecurity. I'm always interested in learning from others and exploring new opportunities.
+
+* Email: degyabeng@gmail.com
+* LinkedIn: linkedin.com/in/divineegyabeng
+* Instagram: divine_egyabeng
 
 Visit my work: cyberwatchai.com
